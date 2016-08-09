@@ -1,5 +1,5 @@
 ### Uberdata
-Uberdata is a distribution of Apache Spark, that include Apache Zeppelin that is ready to use _[locally](readmeLocal.md)_ on your computer or on  _[AWS](readmeAws.md)_ .
+Uberdata is an Apache Spark distribution, that includes Apache Zeppelin and it is ready to use _[locally](readmeLocal.md)_ on your computer or on  an _[AWS](readmeAws.md)_ cluster.
 
 Slack Channels:
 
